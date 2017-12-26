@@ -8,13 +8,13 @@
     {
         body
         {
-			//Mesure the q1
-			let current = M(q1);
-			if(desired != current)
-			{
-				//Apply X to the q1 QBit
-				X(q1);
-			}
+		//Mesure the q1
+		let current = M(q1);
+		if(desired != current)
+		{
+			//Apply X to the q1 QBit
+			X(q1);
+		}
 		
         }
     }
