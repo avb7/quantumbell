@@ -9,7 +9,7 @@ The bell state is the simplest representation of entanglement. The pair of QBits
 
 ![Bell State|Small](https://www.researchgate.net/profile/Panagiotis_Botsinis/publication/236883187/figure/fig10/AS:306631104581660@1450117960746/Quantum-circuit-for-generating-the-entnagled-Bell-state-1oversqrt2leftvert.png)
 
-#### Q# Gist 
+### Q# Gist 
 Essentially, we create two QBits and apply the gates to entangle them.
 ~~~~cs
   qubits = Qubit[2]
@@ -17,6 +17,6 @@ Essentially, we create two QBits and apply the gates to entangle them.
   CNOT(qubits[0],qubits[1]);
 ~~~~
 
-#### Microsoft's Quantum Development Kit 
+### Microsoft's Quantum Development Kit 
 This project was built and run using Microsoft's QDK. 
 [![QDK|Small](https://cdn-ak.f.st-hatena.com/images/fotolife/u/ut25252/20171215/20171215001916.png)](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit)
