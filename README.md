@@ -21,4 +21,4 @@ Essentially, we create two QBits and apply the gates to entangle them.
 
 #### Microsoft's Quantum Development Kit 
 This project was built and run using Microsoft's QDK. 
-![QDK|Small](https://cdn-ak.f.st-hatena.com/images/fotolife/u/ut25252/20171215/20171215001916.png)](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit)
+[![QDK|Small](https://cdn-ak.f.st-hatena.com/images/fotolife/u/ut25252/20171215/20171215001916.png)](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit)
