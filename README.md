@@ -1,14 +1,14 @@
 # quantum-bell-state
 
 ### Goals
-To play with around the sample code given by the QDK kit to understand how different quantum operations are executed in Q#, and how a simple entanglement of two Qbits can be created using the Hadamand and CNOT gate
+To play with around the sample code given by the QDK kit to understand how different quantum operations are executed in Q#, and how a simple entanglement of two Qbits can be created using the Hadamard and CNOT gate
 
 I'm writing this README to keep a log of concepts I learnt after going through some concepts of QComputing and Microsoft's QDK
 ### Concepts
 #### Idea
 The bell state is the simplest representation of entanglement. The pair of QBits are put in the Bell state with the following quantum operations: 
 
-![Bell State|Solid, 50%](https://www.researchgate.net/profile/Panagiotis_Botsinis/publication/236883187/figure/fig10/AS:306631104581660@1450117960746/Quantum-circuit-for-generating-the-entnagled-Bell-state-1oversqrt2leftvert.png)
+![Bell State|20%](https://www.researchgate.net/profile/Panagiotis_Botsinis/publication/236883187/figure/fig10/AS:306631104581660@1450117960746/Quantum-circuit-for-generating-the-entnagled-Bell-state-1oversqrt2leftvert.png)
 
 #### Q# Gist 
 Essentially, we create two QBits and apply the gates to entangle them.
