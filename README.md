@@ -5,7 +5,6 @@ To play with around the sample code given by the QDK kit to understand how diffe
 
 I'm writing this README to keep a log of concepts I learnt after going through some concepts of QComputing and Microsoft's QDK
 ### Concepts
-#### Idea
 The bell state is the simplest representation of entanglement. The pair of QBits are put in the Bell state with the following quantum operations: 
 
 ![Bell State|Small](https://www.researchgate.net/profile/Panagiotis_Botsinis/publication/236883187/figure/fig10/AS:306631104581660@1450117960746/Quantum-circuit-for-generating-the-entnagled-Bell-state-1oversqrt2leftvert.png)
@@ -17,7 +16,6 @@ Essentially, we create two QBits and apply the gates to entangle them.
   H(qubits[0]);
   CNOT(qubits[0],qubits[1]);
 ~~~~
-
 
 #### Microsoft's Quantum Development Kit 
 This project was built and run using Microsoft's QDK. 
