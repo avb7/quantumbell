@@ -70,7 +70,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <QsharpCompile Include="Operation.qs" />
+    <QsharpCompile Include="Bell.qs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
