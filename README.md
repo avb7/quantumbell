@@ -1,5 +1,7 @@
 # quantum-bell-state
 
+The Bell states, a concept in quantum information science, are specific quantum states of two qubits that represent the simplest (and maximal) examples of quantum entanglement. The Bell states are a form of entangled and normalized basis vectors. Understanding of the Bell states is essential in analysis of quantum communication (such as superdense coding) and quantum teleportation. 
+
 ### Goals
 To play with around the sample code given by the QDK kit to understand how different quantum operations are executed in Q#, and how a simple entanglement of two Qbits can be created using the Hadamard and CNOT gate
 
